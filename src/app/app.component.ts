@@ -11,7 +11,7 @@ interface SideNavToggle {
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-admin';
+  title = 'angular-admin-portal';
 
   isSideNavCollapsed = false;
   screenWidth = 0;
